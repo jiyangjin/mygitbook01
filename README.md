@@ -39,7 +39,7 @@
 
 ##表格
 比较复杂，暂时不写
->| Tables| Are| Cool|
+>| Tables| Are|Cool|
 
 ##应用代码（代码框）
 `	public ActionForward getList(ActionMapping mapping, ActionForm form,
